@@ -11,7 +11,7 @@ This organization currently hosts:
 
 ## Contributors
 
-Joshua Cohen
-Ryan Green
-Leilanie Rubinstein
-Rachel Swick
+- [Joshua Cohen](https://github.com/silkieMoth)
+- [Ryan Green](https://github.com/ryangreen6)
+- [Leilanie Rubinstein](https://github.com/leirubinstein)
+- [Rachel Swick](https://github.com/rfswick)
