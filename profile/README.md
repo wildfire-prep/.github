@@ -1,4 +1,24 @@
-# Remote Sensing of Brush Clearance to Enhance Wildfire Preparedness
+<h1 align="center">
+
+Remote Sensing of Brush Clearance to Enhance Wildfire Preparedness
+
+</h1>
+
+## Table of Contents
+
+[Overview](#overview)
+
+[Project Summary](#project-summary)
+
+[Organization Structure](#organization-structure)
+
+[Data Sources](#data-sources)
+
+[Authors and Contributors](#authors-and-contributors) 
+
+## Overview
+
+This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the [Bren School of Environmental Science and Management](https://bren.ucsb.edu), University of California, Santa Barbara.
 
 ## Project Summary
 
@@ -9,9 +29,34 @@ As wildfires become more common in the face of climate change, wildfire prepared
 This organization currently hosts:
 - [data-preparation](https://github.com/wildfire-prep/data-preparation): a repository covering data cleaning and training set creation for modeling.
 
-## Contributors
+## Data Sources
 
-- [Joshua Cohen](https://github.com/silkieMoth)
-- [Ryan Green](https://github.com/ryangreen6)
-- [Leilanie Rubinstein](https://github.com/leirubinstein)
-- [Rachel Swick](https://github.com/rfswick)
+- Inspections data: SBCFD
+- Remote sensing data: Planet Labs
+
+## Authors and Contributors
+
+#### Authors
+
+- Joshua Cohen | [GitHub](https://github.com/silkieMoth)
+- Ryan Green | [GitHub](https://github.com/ryangreen6)
+- Leilanie Rubinstein | [GitHub](https://github.com/leirubinstein)
+- Rachel Swick | [GitHub](https://github.com/rfswick)
+
+#### Clients
+
+- Sarah Anderson, Ph.D. | Bren School of Environmental Science & Management
+- Mark Buntaine, Ph.D. | Bren School of Environmental Science & Management
+- Cesar Martinez-Alvarez, Ph.D | UCSB Department of Political Science
+- Santa Barbara County Fire Department
+
+#### Advisors
+
+- Faculty Advisor - Mark Buntaine, Ph.D.
+- Capstone Advisor - Carmen Galaz-Garcia, Ph.D.
+
+## Acknowledgements
+
+- Cullen Molitor | Center for Effective Global Action | emLab
+- Scott Safechuck | SBCFD
+
