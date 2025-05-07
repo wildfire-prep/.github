@@ -1,6 +1,6 @@
 <h1 align="center">
 
-Remote Sensing of Brush Clearance to Enhance Wildfire Preparedness
+Remote Sensing of Defensible Space Compliance to Enhance Wildfire Preparedness
 
 </h1>
 
