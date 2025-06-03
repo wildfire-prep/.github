@@ -28,6 +28,7 @@ As wildfires become more common in the face of climate change, wildfire prepared
 
 This organization currently hosts:
 - [data-preparation](https://github.com/wildfire-prep/data-preparation): a repository covering data cleaning and training set creation for modeling.
+- [modeling](https://github.com/wildfire-prep/modeling): a repository covering modeling and model metrics.
 
 ## Data Sources
 
